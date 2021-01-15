@@ -10,4 +10,4 @@ prirez = float(str(round((porez + pio) * 0.1, 2)))
 neto = float(str(round(int(bruto) - porez - pio - prirez, 2)))
 
 print(f"Bruto iznos je {bruto} porez je {porez} prirez je {prirez} pio je {pio} neto je {neto}")
-print(f"Uplatiti osobi {neto} eura, a porez {porez + pio}   eura")
+print(f"Uplatiti osobi {neto} eura, a porez {porez + pio} eura")
