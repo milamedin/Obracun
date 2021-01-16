@@ -1,5 +1,5 @@
 bruto = input("Bruto iznos? ")
-dalipio = input("Pio? ")
+dalipio = input("Pio  ? ")
 osnovica = float(str(round(int(bruto) * 0.696, 2)))
 porez = float(str(round(osnovica * 0.09, 2)))
 if(dalipio == "da"):
