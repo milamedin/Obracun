@@ -1,4 +1,4 @@
-bruto = input("Bruto iznos? ")
+bruto = input("Brut  o iznos? ")
 dalipio = input("Pio? ")
 osnovica = float(str(round(int(bruto) * 0.696, 2)))
 porez = float(str(round(osnovica * 0.09, 2)))
